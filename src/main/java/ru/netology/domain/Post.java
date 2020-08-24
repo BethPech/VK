@@ -16,8 +16,7 @@ public class Post {
     private int repost;
     private int watched;
 
-
-
+    // + get/set на все поля
 
 
 

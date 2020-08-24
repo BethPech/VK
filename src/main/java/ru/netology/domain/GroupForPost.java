@@ -11,6 +11,6 @@ public class GroupForPost {
     private String placeForComment;
     private String extraMenu;
     private int referrals;
-
+    // + get/set на все поля
 
 }

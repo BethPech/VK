@@ -7,5 +7,6 @@ public class Person {
     private boolean liked;
     private boolean reposted;
     private String comment;
+    // + get/set на все поля
 
 }
