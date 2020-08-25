@@ -15,6 +15,15 @@ public class Post {
     private int comment;
     private int repost;
     private int watched;
+    private int commentsCount;
+    private int commentsGroupsCanPost;
+    private boolean commentsCanClose;
+    private String geoPlace;
+    private String geoType;
+    private int markedAsAdc;
+
+
+
 
     // + get/set на все поля
 

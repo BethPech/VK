@@ -11,6 +11,18 @@ public class GroupForPost {
     private String placeForComment;
     private String extraMenu;
     private int referrals;
+    private int createdBy;
+    private int copywrite;
+    private int repostsCount;
+    private String postType;
+    private int signerId;
+    private int isPinned;
+
+
+
+
+
+
     // + get/set на все поля
 
 }
