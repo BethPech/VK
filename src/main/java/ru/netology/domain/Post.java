@@ -23,6 +23,10 @@ public class Post {
     private String geoPlace;
     private String geoType;
     private int markedAsAdc;
+    private int offset;
+    private int count;
+    private String query;
+
 
 
 

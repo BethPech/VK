@@ -1,29 +1,20 @@
 package ru.netology.manager;
 
-public class PostManager {
-    private String[] Post = {"search","delete"};
+import ru.netology.domain.Post;
 
-    public ru.netology.domain.Post[] search("ownerId", "domain");
-    {
-        for (PostManager: Post) {
-            String Post = PostManager.search();
-        }
+
+public class PostManager {
+    private Post[] post = new Post[22];
+
+
+    public Post[] search(String domain, String query) {
         //TODO:add logic
         return null;
     }
 
-
-
-    public void delete = "postId" + "ownerId";
-
-    {
-        for (PostManager:Post) {
-            String block = PostManager.delete();
-
-        }
+    public void delete(int ownerId) {
         //TODO:add logic
         return;
     }
-
 
 }
