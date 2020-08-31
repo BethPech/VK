@@ -26,6 +26,8 @@ public class Post {
     private int offset;
     private int count;
     private String query;
+    private int ownersOnly;
+
 
 
 
